@@ -3,3 +3,5 @@
 #the full copyright notices and license terms.
 
 from .test_account_payment_csv import suite
+
+__all__ = ['suite']
